@@ -36,4 +36,4 @@ Para seguir esse passo-a-passo abaixo, é preciso ter o [node](https://nodejs.or
 - Veja o número sorteado aparecer
 
 ## Feito por:
-[OVELHA Campinas](instagram.com/ovelhacps)
+[OVELHA Campinas](http://instagram.com/ovelhacps)
